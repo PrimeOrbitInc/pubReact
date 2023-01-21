@@ -1,2 +1,2 @@
 # pubReact
-Playground test apps
+Sample applications and utlities for new folks in the company
